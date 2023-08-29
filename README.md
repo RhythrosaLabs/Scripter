@@ -1,4 +1,4 @@
-# GPT Script Generator
+# GPT Markdown Maker
 
 ## Overview
 
