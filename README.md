@@ -1,4 +1,4 @@
-# GPT File Creator
+# GPT Script Generator
 
 ## Overview
 
