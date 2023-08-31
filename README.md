@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple but efficient GUI that uses GPT-4 to generate a diverse range of script files. It supports 25 different types of scripts including Python, HTML, MIDI, Sheet Music, and many more. It then allows the user to download any script as a markdown file.
+A simple GUI that uses GPT-4 to generate a diverse range of script files. It supports 25 different types of scripts including Python, HTML, MIDI, Sheet Music, and many more. It then allows the user to download any script as a markdown file.
 
 ## Getting Started
 
