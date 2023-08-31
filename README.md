@@ -41,7 +41,7 @@ A simple GUI that uses GPT-4 to generate a diverse range of script files. It sup
 
 ## Contributing
 
-Feel free to fork this repository and submit your changes via pull requests.
+This is a quick and sloppy code that could use a lot of fine-tuning. Feel free to fork this repository and submit your changes via pull requests.
 
 ## License
 
