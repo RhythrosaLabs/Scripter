@@ -43,6 +43,11 @@ A simple GUI that uses GPT-4 to generate a diverse range of script files. It sup
 
 This is a quick and sloppy code that could use a lot of fine-tuning. Feel free to fork this repository and submit your changes via pull requests.
 
+## Support
+If you found this helpful and would like to support its development, consider buying me a coffee:
+
+[![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
+
 ## License
 
 This software is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
