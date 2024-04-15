@@ -11,23 +11,13 @@ This Python script utilizes OpenAI's GPT models to generate content in various f
 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+1. Clone the repository.
 
-css
-Copy code
-
-2. Navigate to the cloned directory:
-cd your-repository
-
-markdown
-Copy code
+2. Navigate to the cloned directory.
 
 3. Install the required dependencies:
 pip install openai tkinter
 
-markdown
-Copy code
 
 ## Usage
 
@@ -55,8 +45,3 @@ Copy code
 - Handle your API key securely to prevent unauthorized access.
 - For extensive customization or integration, the script can be modified as needed.
 - This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Special thanks to OpenAI for providing the GPT models.
-- Thanks to the tkinter library for the GUI components.
