@@ -21,11 +21,7 @@ pip install openai tkinter
 
 ## Usage
 
-1. Run the script:
-python script_name.py
-
-vbnet
-Copy code
+1. Run the script.
 
 2. Enter your request in the input text box.
 3. Select the desired output format from the dropdown menu.
