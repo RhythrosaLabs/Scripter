@@ -39,6 +39,29 @@ Copy code
 3. **Generate Content**: Upon clicking the "Generate" button, the script constructs a prompt specific to the chosen format and calls OpenAI's API to generate content.
 4. **Save Content**: The generated content is then saved to a file with the corresponding extension.
 
+## Supported File Types
+
+1. **Python (.py)**
+2. **XML (.xml)**
+3. **HTML (.html)**
+4. **JSON (.json)**
+5. **Markdown (.md)**
+6. **CSV (.csv)**
+7. **YAML (.yaml)**
+8. **JavaScript (.js)**
+9. **Java (.java)**
+10. **C++ (.cpp)**
+11. **C# (.cs)**
+12. **LaTeX (.tex)**
+13. **SQL (.sql)**
+14. **PHP (.php)**
+15. **INI (.ini)**
+16. **R (.r)**
+17. **Plain Text (.txt)**
+18. **Rich Text Format (.rtf)**
+
+
+
 ## Note
 
 - Ensure you have a valid OpenAI API key for accessing the GPT models.
