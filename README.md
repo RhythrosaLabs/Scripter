@@ -1,4 +1,4 @@
-# GPT Scritper
+# GPT Scripter
 
 This Python script utilizes OpenAI's GPT models to generate content in various file formats based on user input. The script provides a simple GUI where users can input their request, select the desired output format, and generate content accordingly.
 
