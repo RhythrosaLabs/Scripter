@@ -1,71 +1,62 @@
-# GPT Scripter
+<div align="center">
 
-This Python script utilizes OpenAI's GPT models to generate content in various file formats based on user input. The script provides a simple GUI where users can input their request, select the desired output format, and generate content accordingly.
+# 📝 Scripter
 
-## Features
+**GPT-4 powered script and code generator — any language, any format, from a simple GUI**
 
-- Supports a wide range of file formats including Python, XML, HTML, JSON, Markdown, CSV, YAML, JavaScript, Java, C++, and more.
-- Provides a user-friendly interface for inputting requests and selecting output formats.
-- Generates content using OpenAI's powerful GPT models.
-- Saves the generated content to a file with the appropriate extension.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-00A67E?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-## Installation
+</div>
 
-1. Clone the repository.
+---
 
-2. Navigate to the cloned directory.
+Scripter is a desktop GUI app that takes a plain-English request, lets you pick an output format, and generates a complete, ready-to-run script using GPT-4. Python, C#, Java, HTML, Blender scripts, Unity scripts, JSON, YAML, CSV, Markdown, and more — all in seconds.
 
-3. Install the required dependencies:
-pip install openai tkinter
+## ✨ Features
 
+- **20+ file formats** — Python, C#, Java, JS, HTML, JSON, YAML, CSV, Markdown, XML, C++, and more
+- **Blender & Unity support** — generate game scripts and 3D automation code directly
+- **FileMaker scripts** — includes niche formats not found elsewhere
+- **Simple Tkinter GUI** — enter a prompt, pick format, click Generate
+- **Auto-save** — output written to a file with the correct extension automatically
+- **GPT-4 powered** — high-quality, contextually accurate code output
 
-## Usage
+## 🚀 Quick Start
 
-1. Run the script.
+```bash
+git clone https://github.com/RhythrosaLabs/Scripter.git
+cd Scripter
+pip install openai
+python scripter.py
+```
 
-2. Enter your request in the input text box.
-3. Select the desired output format from the dropdown menu.
-4. Click on the "Generate" button.
-5. The generated content will be displayed in the output box and saved to a file.
+Enter your OpenAI API key, type what you want to create, pick your format, and hit **Generate**.
 
-## How It Works
+## 🛠️ Tech Stack
 
-1. **Input Request**: Users input their request in the text box provided.
-2. **Select Output Format**: Users select the desired output format from the dropdown menu.
-3. **Generate Content**: Upon clicking the "Generate" button, the script constructs a prompt specific to the chosen format and calls OpenAI's API to generate content.
-4. **Save Content**: The generated content is then saved to a file with the corresponding extension.
+- **Python + Tkinter** — desktop GUI, zero dependencies beyond standard library
+- **OpenAI API (GPT-4)** — code and script generation
 
-## Supported File Types
+## 📂 Supported Output Formats
 
-1. **Python (.py)**
-2. **XML (.xml)**
-3. **HTML (.html)**
-4. **JSON (.json)**
-5. **Markdown (.md)**
-6. **CSV (.csv)**
-7. **YAML (.yaml)**
-8. **JavaScript (.js)**
-9. **Java (.java)**
-10. **C++ (.cpp)**
-11. **C# (.cs)**
-12. **LaTeX (.tex)**
-13. **SQL (.sql)**
-14. **PHP (.php)**
-15. **INI (.ini)**
-16. **R (.r)**
-17. **Plain Text (.txt)**
-18. **Rich Text Format (.rtf)**
+Python · C# · Java · JavaScript · HTML · XML · JSON · Markdown · CSV · YAML · C++ · Blender Script · Unity Script · FileMaker Script · Bash · SQL · PHP · Ruby · Go · Rust
 
+## 🤝 Contributing
 
+PRs welcome. Open an issue first for major changes.
 
-## Note
+## 📄 License
 
-- Ensure you have a valid OpenAI API key for accessing the GPT models.
-- Handle your API key securely to prevent unauthorized access.
-- For extensive customization or integration, the script can be modified as needed.
-- This project is licensed under the MIT License.
+MIT
 
+## 💛 Support
 
-## Support
+If Scripter saves you time, consider supporting development:
 
-If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
+👉 [Donate via PayPal](https://paypal.me/noodlebake) — @noodlebake
+
+---
+<div align="center">Made with ❤️ by <a href="https://github.com/RhythrosaLabs">RhythrosaLabs</a></div>
