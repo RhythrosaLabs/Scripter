@@ -64,3 +64,8 @@ pip install openai tkinter
 - Handle your API key securely to prevent unauthorized access.
 - For extensive customization or integration, the script can be modified as needed.
 - This project is licensed under the MIT License.
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
